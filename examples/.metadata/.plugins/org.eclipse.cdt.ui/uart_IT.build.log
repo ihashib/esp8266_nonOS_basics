@@ -1,0 +1,17 @@
+03:16:50 **** Build of configuration Default for project uart_IT ****
+mingw32-make.exe -f C:/Users/Hashib/Documents/ESP8266_NONOS/Baral_lighting/uart_IT/Makefile all 
+CC driver/uart.c
+CC user/user_main.c
+AR build/app_app.a
+LD build/app.out
+Run objcopy, please wait...
+objcopy done
+Run gen_appbin.exe
+No boot needed.
+Generate eagle.flash.bin and eagle.irom0text.bin successully in folder firmware
+eagle.flash.bin-------->0x00000
+eagle.irom0text.bin---->0x10000
+Done
+
+03:16:52 Build Finished. 0 errors, 0 warnings. (took 1s.975ms)
+
