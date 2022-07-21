@@ -1,5 +1,5 @@
-03:29:27 **** Build of configuration Default for project hello_world ****
-mingw32-make.exe -f C:/Users/Hashib/Documents/ESP8266_NONOS/Baral_lighting/hello_world/Makefile all 
+23:08:29 **** Build of configuration Default for project hello_world ****
+mingw32-make.exe -f C:/Users/Hashib/Documents/ESP8266_NONOS/examples/hello_world/Makefile all 
 CC driver/uart.c
 CC user/user_main.c
 AR build/app_app.a
@@ -13,5 +13,5 @@ eagle.flash.bin-------->0x00000
 eagle.irom0text.bin---->0x10000
 Done
 
-03:29:34 Build Finished. 0 errors, 0 warnings. (took 7s.804ms)
+23:08:30 Build Finished. 0 errors, 0 warnings. (took 1s.799ms)
 

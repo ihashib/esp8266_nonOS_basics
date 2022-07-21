@@ -1,5 +1,6 @@
-03:29:27 **** Build of configuration Default for project hello_world ****
-mingw32-make.exe -f C:/Users/Hashib/Documents/ESP8266_NONOS/Baral_lighting/hello_world/Makefile all 
+05:08:08 **** Build of configuration Default for project WiFi_Client ****
+mingw32-make.exe -f C:/Users/Hashib/Documents/ESP8266_NONOS/examples/WiFi_Client/Makefile all 
+CC driver/wifi_sta.c
 CC driver/uart.c
 CC user/user_main.c
 AR build/app_app.a

@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="ExternalProjectImportWizard">
-		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Espressif\examples\ESP8266\wifi-sniffer"/>
+			<item value="C:\Espressif\examples\ESP8266\IoT_Demo"/>
+			<item value="C:\Espressif\examples\ESP8266\wifi-sta-tcp-client"/>
+			<item value="C:\Users\Hashib\Documents\ESP8266_NONOS\examples\WiFi_Client"/>
+			<item value="C:\Users\Hashib\Documents\ESP8266_NONOS\examples\sample_proj"/>
+			<item value="C:\Users\Hashib\Documents\ESP8266_NONOS\examples\wifi_client"/>
 			<item value="C:\Users\Hashib\Documents\ESP8266_NONOS\Baral_lighting\uart_IT"/>
 			<item value="C:\Espressif\examples\ESP8266\hello_world_cpp_2"/>
 			<item value="C:\Espressif\examples\ESP8266\hello_world_cpp"/>
